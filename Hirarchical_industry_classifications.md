@@ -16,7 +16,9 @@ You are an excellent industry specialist. Please classify the following title te
 category: <class chosen>
 
 Possible classes are:
-[   {classes} ]
+
+{classes}
+
 
 User:
 <title>
